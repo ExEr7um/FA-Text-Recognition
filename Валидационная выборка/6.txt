@@ -1,0 +1,5 @@
+this is a test image
+for tutorial of
+using pytesseract.
+Image is read using
+Pillow

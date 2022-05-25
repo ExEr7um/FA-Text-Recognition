@@ -1,0 +1,4 @@
+This is a sample.
+If you want use this OCR,
+please use character of 20
+points or more.
